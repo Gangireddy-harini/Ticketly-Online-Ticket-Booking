@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { QRCodeSVG } from "qrcode.react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL ="https://ticketly-online-ticket-booking.onrender.com";
 
 const EVENTS = [
   {
